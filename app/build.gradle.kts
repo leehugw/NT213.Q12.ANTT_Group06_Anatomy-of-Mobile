@@ -22,7 +22,7 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = true // Bật ProGuard (R8)
-            isShrinkResources = true // (Tùy chọn) Xóa tài nguyên thừa
+            isShrinkResources = true // Xóa tài nguyên thừa
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
