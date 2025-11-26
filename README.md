@@ -6,6 +6,12 @@ Bài tập phát triển ứng dụng di động Android cơ bản, tập trung 
 
 Ứng dụng này là bài tập của môn Bảo mật web và ứng dụng, bao gồm các chức năng cốt lõi: Đăng ký, Đăng nhập và Đăng xuất. Dữ liệu tài khoản người dùng được lưu trữ an toàn ngay trên thiết bị bằng SQLite. Ngoài ra, ứng dụng đã được cấu hình ProGuard để tối ưu hóa kích thước và bảo mật mã nguồn khi phát hành (Release).
 
+## 👨‍💻 Tác giả
+
+* **Nhóm thực hiện:** Nhóm 06
+* **Môn học:** Bảo mật web và ứng dụng
+* **Mã lớp:** NT213.Q12.ANTT
+
 ## 🚀 Công nghệ sử dụng
 
 *   **Ngôn ngữ:** Kotlin
@@ -114,12 +120,4 @@ Nếu đăng nhập đúng, người dùng được chuyển đến màn hình c
 *(Giao diện trang chủ hiển thị lời chào người dùng)*
 
 ---
-## 👨‍💻 Tác giả
 
-Nhóm thực hiện: Nhóm 6
-
-Môn học: Bảo mật web và ứng dụng
-
-Mã lớp: NT213.Q12.ANTT
-
----
